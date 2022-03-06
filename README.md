@@ -1,6 +1,6 @@
 # Wireframing and Protyping
 
-The linked files contain the wireframe and protype for our mobile app, Shelter together.
+The linked files contain the wireframe and protype for our mobile app, Shelter Together.
 
 ## Description
 
