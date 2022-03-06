@@ -1,4 +1,4 @@
-#Wireframing and Protyping
+# Wireframing and Protyping
 
 The document linked contains the wireframe and protype for our mobile app, Shelter together.
 
